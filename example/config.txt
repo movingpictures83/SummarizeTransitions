@@ -1,0 +1,2 @@
+Prefix plugins/SummarizeTransitions/example/
+Plugin SummarizeTransitions inputfile lipidclass.rds outputfile summary.rds
